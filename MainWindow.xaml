@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Galiev_Глазки_save"
         mc:Ignorable="d"
-        Title="Galiev" Height="450" Width="800" FontFamily="Century Gothic" Icon="res/Глазки-save.ico" MinHeight="815" MinWidth="1350">
+        Title="Galiev" Height="985" Width="800" FontFamily="Century Gothic" Icon="res/Глазки-save.ico" MinHeight="760" MinWidth="1400">
+    
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="75"/>

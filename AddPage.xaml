@@ -7,9 +7,5 @@
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="AddPage" FontFamily="Century Gothic">
-
-    <Grid>
-        <TextBlock Text="Салам алейкум" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30"></TextBlock>
-        
-    </Grid>
+    
 </Page>

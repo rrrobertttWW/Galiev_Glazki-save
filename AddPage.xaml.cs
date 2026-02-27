@@ -24,5 +24,7 @@ namespace Galiev_Глазки_save
         {
             InitializeComponent();
         }
+
+       
     }
 }
